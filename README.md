@@ -1,5 +1,6 @@
 # pingsweep.py
-'''
+
+```
 #!/usr/bin/python2
 
 import multiprocessing
@@ -44,4 +45,4 @@ if __name__ == '__main__':
         ip = results.get()
         print(ip)
         
-'''
+```
