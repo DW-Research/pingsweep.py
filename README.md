@@ -1,4 +1,5 @@
 # pingsweep.py
+'''
 
 #!/usr/bin/python2
 
@@ -43,3 +44,5 @@ if __name__ == '__main__':
     while not results.empty():
         ip = results.get()
         print(ip)
+        
+        '''
